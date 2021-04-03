@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: Dharshu
 - 📫How to reach me -> mail to:rdharsheeni28@gmail.com
+- 👩 My Social Profile : http://linkedin.com/in/dharsheeni-r-282ab2173
+
 
 
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsheeni&layout=compact&theme=dark)
