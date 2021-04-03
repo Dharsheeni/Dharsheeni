@@ -4,7 +4,7 @@
 *Dharsheeni* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👯I'm Dharsheeni 
-- 🌱 I’m currently learning Angular.js 
+- 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: Dharshu
 - 📫How to reach me -> mail to:rdharsheeni28@gmail.com
